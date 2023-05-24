@@ -2,7 +2,7 @@
 
 # Device
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
-export TWRP_BRANCH="twrp-12.1"
+export TWRP_BRANCH="twrp-11"
 #export TWRP_BRANCH="twrp-test"
 export DT_LINK="https://github.com/TheUnknownName/twrp_realme_RMX3195 -b android-11"
 

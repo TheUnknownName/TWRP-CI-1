@@ -3,7 +3,7 @@ env:
     CONFIG: config.sh
 
     # Telegram
-    TG_CHAT_ID: "@TheUnknownName06"
+    TG_CHAT_ID: "1670106753"
     TG_TOKEN: ENCRYPTED[983bbf1090f7d681f2264c0b7e41d6c448cab2f353f5518567002535f7cf1d117a7ce8f998f5f52664d7a489d4c15aec]
 
     # Cirrus Specific Vars (Do *NOT* Change)

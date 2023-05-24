@@ -4,10 +4,10 @@
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
 export TWRP_BRANCH="twrp-12.1"
 #export TWRP_BRANCH="twrp-test"
-export DT_LINK="https://github.com/faoliveira78/android_device_oneplus_cheeseburger_dumpling -b android-12.1"
+export DT_LINK="https://github.com/TheUnknownName/twrp_realme_RMX3195 -b android-11"
 
-export DEVICE="cheeseburger_dumpling"
-export OEM="oneplus"
+export DEVICE="RMX3195"
+export OEM="realme"
 #export PLATFORM="msm8998"
 export TARGET="recoveryimage"
 export TW_DEVICE_VERSION="3.2-dyn"
